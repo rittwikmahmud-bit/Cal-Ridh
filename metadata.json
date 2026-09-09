@@ -1,0 +1,6 @@
+{
+  "name": "Riddhyas Calculator",
+  "description": "Kids calculator app for Riddhya featuring a vibrant pink UI, simple large buttons, animated sound effects, and safe offline functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
